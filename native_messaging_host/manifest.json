@@ -1,0 +1,9 @@
+{
+  "name": "com.example.batexecutor",
+  "description": "IP Address Executor Native Messaging Host",
+  "path": "path/to/batexecutor.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://YOUR CHROME EXTENSION ID/"
+  ]
+}
